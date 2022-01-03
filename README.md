@@ -8,7 +8,7 @@
 | Day           | Topic         | Link          |
 | ------------- | ------------- | ------------- |
 | 03-01-2022    | **State of CSS 2021** | https://web.dev/state-of-css-2021/ |
-| 04-01-2022    ||
+| 04-01-2022    | **26 GitHub Open Sources For Learning Programming** | https://javascript.plainenglish.io/26-github-open-sources-for-learning-programming-4d0021d9f336 |
 | 05-01-2022    ||
 | 06-01-2022    ||
 | 07-01-2022    ||
