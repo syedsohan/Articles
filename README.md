@@ -13,7 +13,7 @@
 |               | **Tailwind CSS Cheat Sheet** | <https://flowbite.com/tools/tailwind-cheat-sheet/> |
 | 05-01-2022    | **How to Write Better Git Commit Messages – A Step-By-Step Guide** | <https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/> |
 | 06-01-2022    | **How to Write Better Git Commit Messages – A Step-By-Step Guide** | <https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/> |
-| 07-01-2022    ||
+| 07-01-2022    | **Micro-Frontend Architecture** | <https://apiumhub.com/tech-blog-barcelona/micro-frontend-architecture/>
 | 08-01-2022    ||
 | 09-01-2022    ||
 | 10-01-2022    ||
