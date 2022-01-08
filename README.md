@@ -15,7 +15,7 @@
 | 06-01-2022    | **How to Write Better Git Commit Messages – A Step-By-Step Guide** | <https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/> |
 | 07-01-2022    | **Micro-Frontend Architecture** | <https://apiumhub.com/tech-blog-barcelona/micro-frontend-architecture/>
 | 08-01-2022    | **8 Non-technical ways to contribute to open-source** | <https://daily-dev-tips.com/posts/8-non-technical-ways-to-contribute-to-open-source/> |
-| 09-01-2022    ||
+| 09-01-2022    | **8 Interesting Typography Links for January 2022** | <https://css-tricks.com/typography-links-january-2022/> |
 | 10-01-2022    ||
 | 11-01-2022    ||
 | 12-01-2022    ||
