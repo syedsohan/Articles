@@ -18,7 +18,7 @@
 | 09-01-2022    | **8 Interesting Typography Links for January 2022** | <https://css-tricks.com/typography-links-january-2022/> |
 | 10-01-2022    | **Authentication Patterns for PHP Microservices** | <https://developer.okta.com/blog/2022/01/05/auth-patterns-php-microservices> |
 | 11-01-2022    | **Form Validation Using JavaScript's Constraint Validation API** | <https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api> |
-| 12-01-2022    ||
+| 12-01-2022    | **Make Beautiful Gradients** | <https://www.joshwcomeau.com/css/make-beautiful-gradients/> |
 | 13-01-2022    ||
 | 14-01-2022    ||
 | 15-01-2022    ||
