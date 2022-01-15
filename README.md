@@ -21,7 +21,7 @@
 | 12-01-2022    | **Make Beautiful Gradients** | <https://www.joshwcomeau.com/css/make-beautiful-gradients/> |
 | 13-01-2022    | **CSS Underlines Are Too Thin and Too Low in Chrome** | <https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/> |
 | 14-01-2022    | **Top Front End Development Trends You Should Know in 2022** | <https://dzone.com/articles/top-front-end-development-trends-you-should-know-i> |
-| 15-01-2022    ||
+| 15-01-2022    | **useRainbow()** | <https://css-tricks.com/userainbow/> |
 | 16-01-2022    ||
 | 17-01-2022    ||
 | 18-01-2022    ||
