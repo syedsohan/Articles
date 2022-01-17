@@ -27,7 +27,7 @@
 | 14-01-2022    | **Top Front End Development Trends You Should Know in 2022** | <https://dzone.com/articles/top-front-end-development-trends-you-should-know-i> |
 | 15-01-2022    | **useRainbow()** | <https://css-tricks.com/userainbow/> |
 | 16-01-2022    | **Building an image searching app using Alpine and Tailwind CSS** | <https://daily.dev/blog/building-an-image-searching-app-using-alpine-and-tailwind-css> |
-| 17-01-2022    ||
+| 17-01-2022    | **Mondrian Art in CSS From 5 Code Artists** | <https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/> |
 | 18-01-2022    ||
 | 19-01-2022    ||
 | 20-01-2022    ||
