@@ -28,7 +28,7 @@
 | 15-01-2022    | **useRainbow()** | <https://css-tricks.com/userainbow/> |
 | 16-01-2022    | **Building an image searching app using Alpine and Tailwind CSS** | <https://daily.dev/blog/building-an-image-searching-app-using-alpine-and-tailwind-css> |
 | 17-01-2022    | **Mondrian Art in CSS From 5 Code Artists** | <https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/> |
-| 18-01-2022    ||
+| 18-01-2022    | **Tailwind CSS Laravel - Flowbite** | <https://flowbite.com/docs/getting-started/laravel/> |
 | 19-01-2022    ||
 | 20-01-2022    ||
 | 21-01-2022    ||
