@@ -30,7 +30,7 @@
 | 17-01-2022    | **Mondrian Art in CSS From 5 Code Artists** | <https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/> |
 | 18-01-2022    | **Tailwind CSS Laravel - Flowbite** | <https://flowbite.com/docs/getting-started/laravel/> |
 | 19-01-2022    | **Modern tools for PHP developers** | <https://blog.logrocket.com/modern-tools-php-developers/> |
-| 20-01-2022    ||
+| 20-01-2022    | **What Were the Hottest Front-End Tools in 2021?** | <https://css-tricks.com/hottest-front-end-tools-in-2021/> |
 | 21-01-2022    ||
 | 22-01-2022    ||
 | 23-01-2022    ||
