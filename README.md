@@ -32,7 +32,7 @@
 | 19-01-2022    | **Modern tools for PHP developers** | <https://blog.logrocket.com/modern-tools-php-developers/> |
 | 20-01-2022    | **What Were the Hottest Front-End Tools in 2021?** | <https://css-tricks.com/hottest-front-end-tools-in-2021/> |
 | 21-01-2022    | **How To Hack Any Website** | <https://systemweakness.com/how-to-hack-any-website-c08daec978f6> |
-| 22-01-2022    ||
+| 22-01-2022    | **Using SVG in WordPress (2 Helpful Plugin Recommendations)** | <https://css-tricks.com/using-svg-in-wordpress/> |
 | 23-01-2022    ||
 | 24-01-2022    ||
 | 25-01-2022    ||
