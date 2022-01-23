@@ -34,7 +34,7 @@
 | 21-01-2022    | **How To Hack Any Website** | <https://systemweakness.com/how-to-hack-any-website-c08daec978f6> |
 | 22-01-2022    | **Using SVG in WordPress (2 Helpful Plugin Recommendations)** | <https://css-tricks.com/using-svg-in-wordpress/> |
 | 23-01-2022    | **4 JavaScript Concepts That Every Developer Should Know** | <https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8> |
-| 24-01-2022    ||
+| 24-01-2022    | **Debug like a pro** | <https://medium.com/front-end-weekly/debug-like-a-pro-7749db57b4b1> |
 | 25-01-2022    ||
 | 26-01-2022    ||
 | 27-01-2022    ||
