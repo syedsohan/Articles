@@ -35,7 +35,7 @@
 | 22-01-2022    | **Using SVG in WordPress (2 Helpful Plugin Recommendations)** | <https://css-tricks.com/using-svg-in-wordpress/> |
 | 23-01-2022    | **4 JavaScript Concepts That Every Developer Should Know** | <https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8>   |
 | 24-01-2022    | **Debug like a pro** | <https://medium.com/front-end-weekly/debug-like-a-pro-7749db57b4b1> |
-| 25-01-2022    ||
+| 25-01-2022    | **CSS Pseudo-classes: Forms** | <https://daily-dev-tips.com/posts/css-pseudo-classes-forms/> |
 | 26-01-2022    ||
 | 27-01-2022    ||
 | 28-01-2022    ||
