@@ -36,7 +36,7 @@
 | 23-01-2022    | **4 JavaScript Concepts That Every Developer Should Know** | <https://javascript.plainenglish.io/4-javascript-concepts-that-every-developer-should-know-a20f0d4c9dd8>   |
 | 24-01-2022    | **Debug like a pro** | <https://medium.com/front-end-weekly/debug-like-a-pro-7749db57b4b1> |
 | 25-01-2022    | **CSS Pseudo-classes: Forms** | <https://daily-dev-tips.com/posts/css-pseudo-classes-forms/> |
-| 26-01-2022    ||
+| 26-01-2022    | **Automatic Class Sorting with Prettier** | <https://tailwindcss.com/blog/automatic-class-sorting-with-prettier> |
 | 27-01-2022    ||
 | 28-01-2022    ||
 | 29-01-2022    ||
