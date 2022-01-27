@@ -37,7 +37,7 @@
 | 24-01-2022    | **Debug like a pro** | <https://medium.com/front-end-weekly/debug-like-a-pro-7749db57b4b1> |
 | 25-01-2022    | **CSS Pseudo-classes: Forms** | <https://daily-dev-tips.com/posts/css-pseudo-classes-forms/> |
 | 26-01-2022    | **Automatic Class Sorting with Prettier** | <https://tailwindcss.com/blog/automatic-class-sorting-with-prettier> |
-| 27-01-2022    ||
+| 27-01-2022    | **GitHub Repos to become better JavaScript Developer** | <https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer> |
 | 28-01-2022    ||
 | 29-01-2022    ||
 | 30-01-2022    ||
