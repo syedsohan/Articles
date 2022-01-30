@@ -36,5 +36,5 @@
 | 27-01-2022    | **GitHub Repos to become better JavaScript Developer** | <https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer> |
 | 28-01-2022    | **Getting Started With CSS Cascade Layers** | <https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/> |
 | 29-01-2022    | **17 Killer Web Apps You Should Use to Increase Productivity 🚀💯** | <https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity> |
-| 30-01-2022    ||
+| 30-01-2022    | **JavaScript Practice Exercises for All Levels** | <https://snipcart.com/blog/javascript-practice-exercises> |
 | 31-01-2022    ||
