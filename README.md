@@ -38,3 +38,33 @@
 | 29-01-2022    | **17 Killer Web Apps You Should Use to Increase Productivity 🚀💯** | <https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity> |
 | 30-01-2022    | **JavaScript Practice Exercises for All Levels** | <https://snipcart.com/blog/javascript-practice-exercises> |
 | 31-01-2022    | **How to update all apps using Windows Package Manager in Windows 11** | <https://www.mobigyaan.com/update-all-apps-winget-windows-11> |
+| 01-02-2022    |
+| 02-02-2022    |
+| 03-02-2022    |
+| 04-02-2022    |
+| 05-02-2022    |
+| 06-02-2022    |
+| 07-02-2022    |
+| 08-02-2022    |
+| 09-02-2022    |
+| 10-02-2022    |
+| 11-02-2022    |
+| 12-02-2022    |
+| 13-02-2022    |
+| 14-02-2022    |
+| 15-02-2022    |
+| 16-02-2022    |
+| 17-02-2022    |
+| 18-02-2022    |
+| 19-02-2022    |
+| 20-02-2022    |
+| 21-02-2022    |
+| 22-02-2022    |
+| 23-02-2022    |
+| 24-02-2022    |
+| 25-02-2022    |
+| 26-02-2022    |
+| 27-02-2022    |
+| 28-02-2022    |
+| 01-03-2022    |
+
