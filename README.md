@@ -38,7 +38,7 @@
 | 29-01-2022    | **17 Killer Web Apps You Should Use to Increase Productivity 🚀💯** | <https://madza.hashnode.dev/17-killer-web-apps-you-should-use-to-increase-productivity> |
 | 30-01-2022    | **JavaScript Practice Exercises for All Levels** | <https://snipcart.com/blog/javascript-practice-exercises> |
 | 31-01-2022    | **How to update all apps using Windows Package Manager in Windows 11** | <https://www.mobigyaan.com/update-all-apps-winget-windows-11> |
-| 01-02-2022    |
+| 01-02-2022    | **GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly** | <https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/> |
 | 02-02-2022    |
 | 03-02-2022    |
 | 04-02-2022    |
