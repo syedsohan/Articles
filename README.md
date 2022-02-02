@@ -40,6 +40,7 @@
 | 31-01-2022    | **How to update all apps using Windows Package Manager in Windows 11** | <https://www.mobigyaan.com/update-all-apps-winget-windows-11> |
 | 01-02-2022    | **GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly** | <https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/> |
 | 02-02-2022    | **3 Advanced Data Structures Every Programmer Should Know** | <https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/> |
+|               | **7 Exciting VS Code Extensions Released in January 2022** | <https://betterprogramming.pub/7-exciting-vs-code-extensions-released-in-january-2022-dccf1ec77629> |
 | 03-02-2022    |
 | 04-02-2022    |
 | 05-02-2022    |
