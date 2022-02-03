@@ -41,7 +41,7 @@
 | 01-02-2022    | **GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly** | <https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/> |
 | 02-02-2022    | **3 Advanced Data Structures Every Programmer Should Know** | <https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/> |
 |               | **7 Exciting VS Code Extensions Released in January 2022** | <https://betterprogramming.pub/7-exciting-vs-code-extensions-released-in-january-2022-dccf1ec77629> |
-| 03-02-2022    |
+| 03-02-2022    | **How to build a CI/CD pipeline with GitHub Actions in four simple steps** | <https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/> |
 | 04-02-2022    |
 | 05-02-2022    |
 | 06-02-2022    |
