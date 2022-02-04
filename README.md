@@ -42,7 +42,7 @@
 | 02-02-2022    | **3 Advanced Data Structures Every Programmer Should Know** | <https://www.makeuseof.com/advanced-data-structures-every-programmer-should-know/> |
 |               | **7 Exciting VS Code Extensions Released in January 2022** | <https://betterprogramming.pub/7-exciting-vs-code-extensions-released-in-january-2022-dccf1ec77629> |
 | 03-02-2022    | **How to build a CI/CD pipeline with GitHub Actions in four simple steps** | <https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/> |
-| 04-02-2022    |
+| 04-02-2022    | **Yes, I can connect to a DB in CSS** | <https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html> |
 | 05-02-2022    |
 | 06-02-2022    |
 | 07-02-2022    |
