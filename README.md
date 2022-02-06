@@ -45,7 +45,7 @@
 | 04-02-2022    | **Yes, I can connect to a DB in CSS** | <https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html> |
 | 05-02-2022    | **What is PostCSS? How to Use Plugins to Automate CSS Tasks** | <https://www.freecodecamp.org/news/what-is-postcss/> |
 | 06-02-2022    | **HTML Cheat Sheet – HTML Elements List Reference** | <https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/> |
-| 07-02-2022    |
+| 07-02-2022    | **A website of awesome Github Profile READMEs** | <https://vuejsexamples.com/a-website-of-awesome-github-profile-readmes/> |
 | 08-02-2022    |
 | 09-02-2022    |
 | 10-02-2022    |
