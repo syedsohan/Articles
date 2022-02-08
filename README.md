@@ -46,7 +46,7 @@
 | 05-02-2022    | **What is PostCSS? How to Use Plugins to Automate CSS Tasks** | <https://www.freecodecamp.org/news/what-is-postcss/> |
 | 06-02-2022    | **HTML Cheat Sheet – HTML Elements List Reference** | <https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/> |
 | 07-02-2022    | **A website of awesome Github Profile READMEs** | <https://vuejsexamples.com/a-website-of-awesome-github-profile-readmes/> |
-| 08-02-2022    |
+| 08-02-2022    | **How to Level Up Your Developer Portfolio** | <https://www.freecodecamp.org/news/level-up-developer-portfolio/> |
 | 09-02-2022    |
 | 10-02-2022    |
 | 11-02-2022    |
