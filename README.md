@@ -47,7 +47,7 @@
 | 06-02-2022    | **HTML Cheat Sheet – HTML Elements List Reference** | <https://www.freecodecamp.org/news/html-cheat-sheet-html-elements-list-reference/> |
 | 07-02-2022    | **A website of awesome Github Profile READMEs** | <https://vuejsexamples.com/a-website-of-awesome-github-profile-readmes/> |
 | 08-02-2022    | **How to Level Up Your Developer Portfolio** | <https://www.freecodecamp.org/news/level-up-developer-portfolio/> |
-| 09-02-2022    |
+| 09-02-2022    | **Improving the developer experience for Dependabot alerts** | <https://github.blog/2022-02-08-improving-developer-experience-dependabot-alerts/> |
 | 10-02-2022    |
 | 11-02-2022    |
 | 12-02-2022    |
