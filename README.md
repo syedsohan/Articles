@@ -51,7 +51,7 @@
 | 10-02-2022    | **The Clean Architecture — Beginner’s Guide** | <https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165> |
 | 11-02-2022    | **How to start using reusable workflows with GitHub Actions** | <https://github.blog/2022-02-10-using-reusable-workflows-github-actions/> |
 | 12-02-2022    | **Getting started with project planning on GitHub** | <https://github.blog/2022-02-11-getting-started-with-project-planning-on-github/> |
-| 13-02-2022    |
+| 13-02-2022    | **PHP in 2022** | <https://stitcher.io/blog/php-in-2022> |
 | 14-02-2022    |
 | 15-02-2022    |
 | 16-02-2022    |
