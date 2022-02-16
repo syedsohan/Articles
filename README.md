@@ -54,7 +54,7 @@
 | 13-02-2022    | **PHP in 2022** | <https://stitcher.io/blog/php-in-2022> |
 | 14-02-2022    | **The Complete Guide to Full Stack Web3 Development** | <https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74> |
 | 15-02-2022    | **JavaScript setTimeout() – JS Timer to Delay N Seconds** | <https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/> |
-| 16-02-2022    |
+| 16-02-2022    | **Google Search Is Dying** | <https://dkb.io/post/google-search-is-dying> |
 | 17-02-2022    |
 | 18-02-2022    |
 | 19-02-2022    |
