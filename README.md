@@ -55,7 +55,7 @@
 | 14-02-2022    | **The Complete Guide to Full Stack Web3 Development** | <https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74> |
 | 15-02-2022    | **JavaScript setTimeout() – JS Timer to Delay N Seconds** | <https://www.freecodecamp.org/news/javascript-settimeout-js-timer-to-delay-n-seconds/> |
 | 16-02-2022    | **Google Search Is Dying** | <https://dkb.io/post/google-search-is-dying> |
-| 17-02-2022    |
+| 17-02-2022    | **50 Cool Web And Mobile Project Ideas for 2022** | <https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj> |
 | 18-02-2022    |
 | 19-02-2022    |
 | 20-02-2022    |
