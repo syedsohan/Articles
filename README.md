@@ -57,7 +57,7 @@
 | 16-02-2022    | **Google Search Is Dying** | <https://dkb.io/post/google-search-is-dying> |
 | 17-02-2022    | **50 Cool Web And Mobile Project Ideas for 2022** | <https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj> |
 | 18-02-2022    | **10 Books Every Engineering Leader Should Read** | <https://dzone.com/articles/recommended-books-for-engineering-leaders> |
-| 19-02-2022    |
+| 19-02-2022    | **Thoughts On Markdown** | <https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/> |
 | 20-02-2022    |
 | 21-02-2022    |
 | 22-02-2022    |
