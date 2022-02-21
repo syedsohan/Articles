@@ -59,7 +59,7 @@
 | 18-02-2022    | **10 Books Every Engineering Leader Should Read** | <https://dzone.com/articles/recommended-books-for-engineering-leaders> |
 | 19-02-2022    | **Thoughts On Markdown** | <https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/> |
 | 20-02-2022    | **The Best Content Optimization Software and Tools** | <https://www.dashword.com/content-optimization-tools> |
-| 21-02-2022    |
+| 21-02-2022    | **How to work with CSS Viewport units** | <https://daily-dev-tips.com/posts/how-to-work-with-css-viewport-units/> |
 | 22-02-2022    |
 | 23-02-2022    |
 | 24-02-2022    |
