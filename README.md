@@ -62,7 +62,7 @@
 | 21-02-2022    | **How to work with CSS Viewport units** | <https://daily-dev-tips.com/posts/how-to-work-with-css-viewport-units/> |
 | 22-02-2022    | **Include diagrams in your Markdown files with Mermaid** | <https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/> |
 | 23-02-2022    | **A Complete Guide to CSS Cascade Layers** | <https://css-tricks.com/css-cascade-layers/> |
-| 24-02-2022    |
+| 24-02-2022    | **Reliably Send an HTTP Request as a User Leaves a Page** | <https://css-tricks.com/send-an-http-request-on-page-exit/> |
 | 25-02-2022    |
 | 26-02-2022    |
 | 27-02-2022    |
