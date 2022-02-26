@@ -64,7 +64,7 @@
 | 23-02-2022    | **A Complete Guide to CSS Cascade Layers** | <https://css-tricks.com/css-cascade-layers/> |
 | 24-02-2022    | **Reliably Send an HTTP Request as a User Leaves a Page** | <https://css-tricks.com/send-an-http-request-on-page-exit/> |
 | 25-02-2022    | **Explain the First 10 Lines of Twitter’s Source Code to Me** | <https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/> |
-| 26-02-2022    |
+| 26-02-2022    | **React Awesome Shapes** | <https://blogs.ashutoshhathidara.com/react-awesome-shapes> |
 | 27-02-2022    |
 | 28-02-2022    |
 | 01-03-2022    |
