@@ -65,7 +65,7 @@
 | 24-02-2022    | **Reliably Send an HTTP Request as a User Leaves a Page** | <https://css-tricks.com/send-an-http-request-on-page-exit/> |
 | 25-02-2022    | **Explain the First 10 Lines of Twitter’s Source Code to Me** | <https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/> |
 | 26-02-2022    | **React Awesome Shapes** | <https://blogs.ashutoshhathidara.com/react-awesome-shapes> |
-| 27-02-2022    |
+| 27-02-2022    | **PHP 8.1: new in initializers** | <https://stitcher.io/blog/php-81-new-in-initializers> |
 | 28-02-2022    |
 | 01-03-2022    |
 | 02-03-2022    |
