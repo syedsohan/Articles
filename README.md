@@ -66,7 +66,7 @@
 | 25-02-2022    | **Explain the First 10 Lines of Twitter’s Source Code to Me** | <https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/> |
 | 26-02-2022    | **React Awesome Shapes** | <https://blogs.ashutoshhathidara.com/react-awesome-shapes> |
 | 27-02-2022    | **PHP 8.1: new in initializers** | <https://stitcher.io/blog/php-81-new-in-initializers> |
-| 28-02-2022    |
+| 28-02-2022    | **20 Best Laravel Tutorials (Free and Paid Resources in 2022)** | <https://kinsta.com/blog/laravel-tutorial/> |
 | 01-03-2022    |
 | 02-03-2022    |
 | 03-03-2022    |
