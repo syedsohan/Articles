@@ -67,7 +67,7 @@
 | 26-02-2022    | **React Awesome Shapes** | <https://blogs.ashutoshhathidara.com/react-awesome-shapes> |
 | 27-02-2022    | **PHP 8.1: new in initializers** | <https://stitcher.io/blog/php-81-new-in-initializers> |
 | 28-02-2022    | **20 Best Laravel Tutorials (Free and Paid Resources in 2022)** | <https://kinsta.com/blog/laravel-tutorial/> |
-| 01-03-2022    |
+| 01-03-2022    | **🎉 Introducing Only Formats | The quickest way to format code!** | <https://blog.usman-s.me/onlyformats> |
 | 02-03-2022    |
 | 03-03-2022    |
 | 04-03-2022    |
