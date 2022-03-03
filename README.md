@@ -69,7 +69,7 @@
 | 28-02-2022    | **20 Best Laravel Tutorials (Free and Paid Resources in 2022)** | <https://kinsta.com/blog/laravel-tutorial/> |
 | 01-03-2022    | **🎉 Introducing Only Formats - The quickest way to format code!** | <https://blog.usman-s.me/onlyformats> |
 | 02-03-2022    | **19 GitHub Repositories to Make you a 10x Developer** | <https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss> | 
-| 03-03-2022    |
+| 03-03-2022    | **Laravel 9 is Now Released!** | <https://laravel-news.com/laravel-9-released> |
 | 04-03-2022    |
 | 05-03-2022    |
 | 06-03-2022    |
