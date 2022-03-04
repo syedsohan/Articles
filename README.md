@@ -70,7 +70,7 @@
 | 01-03-2022    | **🎉 Introducing Only Formats - The quickest way to format code!** | <https://blog.usman-s.me/onlyformats> |
 | 02-03-2022    | **19 GitHub Repositories to Make you a 10x Developer** | <https://hackernoon.com/19-github-repositories-to-make-you-a-10x-developer?source=rss> | 
 | 03-03-2022    | **Laravel 9 is Now Released!** | <https://laravel-news.com/laravel-9-released> |
-| 04-03-2022    |
+| 04-03-2022    | **Say Hello to selectmenu, a Fully Style-able select Element** | <https://css-tricks.com/the-selectmenu-element/> |
 | 05-03-2022    |
 | 06-03-2022    |
 | 07-03-2022    |
