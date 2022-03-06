@@ -72,7 +72,7 @@
 | 03-03-2022    | **Laravel 9 is Now Released!** | <https://laravel-news.com/laravel-9-released> |
 | 04-03-2022    | **Say Hello to selectmenu, a Fully Style-able select Element** | <https://css-tricks.com/the-selectmenu-element/> |
 | 05-03-2022    | **How to Get Location Information of an IP Address Using Python** | <https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/> |
-| 06-03-2022    |
+| 06-03-2022    | **Google Images best practices** | <https://developers.google.com/search/docs/advanced/guidelines/google-images> |
 | 07-03-2022    |
 | 08-03-2022    |
 | 09-03-2022    |
