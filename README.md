@@ -74,7 +74,7 @@
 | 05-03-2022    | **How to Get Location Information of an IP Address Using Python** | <https://www.freecodecamp.org/news/how-to-get-location-information-of-ip-address-using-python/> |
 | 06-03-2022    | **Google Images best practices** | <https://developers.google.com/search/docs/advanced/guidelines/google-images> |
 | 07-03-2022    | **Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine** | <https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/> |
-| 08-03-2022    |
+| 08-03-2022    | **Never stop learning** | <https://h.daily-dev-tips.com/never-stop-learning> |
 | 09-03-2022    |
 | 10-03-2022    |
 | 11-03-2022    |
