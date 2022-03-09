@@ -75,7 +75,7 @@
 | 06-03-2022    | **Google Images best practices** | <https://developers.google.com/search/docs/advanced/guidelines/google-images> |
 | 07-03-2022    | **Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine** | <https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/> |
 | 08-03-2022    | **Never stop learning** | <https://h.daily-dev-tips.com/never-stop-learning> |
-| 09-03-2022    |
+| 09-03-2022    | **Python Project Ideas to Improve Your Résumé** | <https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/> |
 | 10-03-2022    |
 | 11-03-2022    |
 | 12-03-2022    |
