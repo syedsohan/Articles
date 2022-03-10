@@ -77,7 +77,7 @@
 | 08-03-2022    | **Never stop learning** | <https://h.daily-dev-tips.com/never-stop-learning> |
 | 09-03-2022    | **Python Project Ideas to Improve Your Résumé** | <https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/> |
 | 10-03-2022    | **React State for Absolute Beginners** | <https://www.freecodecamp.org/news/react-state/> |
-| 11-03-2022    |
+| 11-03-2022    | **Airbnb's Architecture** | <https://www.quastor.org/p/airbnbs-architecture?s=r> |
 | 12-03-2022    |
 | 13-03-2022    |
 | 14-03-2022    |
