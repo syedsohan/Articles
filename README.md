@@ -82,7 +82,7 @@
 | 13-03-2022    | **How to Test PHP Code With PHPUnit** | <https://www.freecodecamp.org/news/test-php-code-with-phpunit/> |
 | 14-03-2022    | **How to Design Better APIs** | <https://www.quastor.org/p/how-to-design-better-apis?s=r> |
 | 15-03-2022    | **HTML and CSS in Emails: What Works in 2022?** | <https://designmodo.com/html-css-emails/> |
-| 16-03-2022    |
+| 16-03-2022    | **A Complete Guide to Grid** | <https://css-tricks.com/snippets/css/complete-guide-grid/> |
 | 17-03-2022    |
 | 18-03-2022    |
 | 19-03-2022    |
