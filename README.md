@@ -83,7 +83,7 @@
 | 14-03-2022    | **How to Design Better APIs** | <https://www.quastor.org/p/how-to-design-better-apis?s=r> |
 | 15-03-2022    | **HTML and CSS in Emails: What Works in 2022?** | <https://designmodo.com/html-css-emails/> |
 | 16-03-2022    | **A Complete Guide to Grid** | <https://css-tricks.com/snippets/css/complete-guide-grid/> |
-| 17-03-2022    |
+| 17-03-2022    | **Building a responsive website? Start with mobile first!** | <https://dev.to/savvasstephnds/building-a-responsive-website-start-with-mobile-first-ho2> |
 | 18-03-2022    |
 | 19-03-2022    |
 | 20-03-2022    |
