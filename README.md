@@ -85,7 +85,7 @@
 | 16-03-2022    | **A Complete Guide to Grid** | <https://css-tricks.com/snippets/css/complete-guide-grid/> |
 | 17-03-2022    | **Building a responsive website? Start with mobile first!** | <https://dev.to/savvasstephnds/building-a-responsive-website-start-with-mobile-first-ho2> |
 | 18-03-2022    | **Front-end Testing Strategy** | <https://itnext.io/front-end-testing-strategy-5fddfd463feb> |
-| 19-03-2022    |
+| 19-03-2022    | **New CSS Features In 2022** | <https://www.smashingmagazine.com/2022/03/new-css-features-2022/> |
 | 20-03-2022    |
 | 21-03-2022    |
 | 22-03-2022    |
