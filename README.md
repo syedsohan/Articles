@@ -89,7 +89,7 @@
 | 20-03-2022    | **Improving The CI/CD Flow For Your Application** | <https://www.smashingmagazine.com/2022/03/improving-ci-cd-flow-application/> |
 | 21-03-2022    | **VS Code Extensions to Increase Developer Productivity** | <https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/> |
 | 22-03-2022    | **How to Save a Google Doc as a PDF** | <https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/> |
-| 23-03-2022    |
+| 23-03-2022    | **GitLive now works with any Git repository in VS Code!** | <https://ygnys.hashnode.dev/gitlive-now-works-with-any-git-repository-in-vs-code> |
 | 24-03-2022    |
 | 25-03-2022    |
 | 26-03-2022    |
