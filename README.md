@@ -91,7 +91,7 @@
 | 22-03-2022    | **How to Save a Google Doc as a PDF** | <https://www.freecodecamp.org/news/how-to-save-a-google-doc-as-a-pdf/> |
 | 23-03-2022    | **GitLive now works with any Git repository in VS Code!** | <https://ygnys.hashnode.dev/gitlive-now-works-with-any-git-repository-in-vs-code> |
 | 24-03-2022    | **8 techniques to write cleaner JavaScript code** | <https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e> |
-| 25-03-2022    |
+| 25-03-2022    | **How to Create Microservices with FastAPI** | <https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/> |
 | 26-03-2022    |
 | 27-03-2022    |
 | 28-03-2022    |
