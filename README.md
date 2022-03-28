@@ -94,7 +94,7 @@
 | 25-03-2022    | **How to Create Microservices with FastAPI** | <https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/> |
 | 26-03-2022    | **HTML Starter Template – A Basic HTML5 Boilerplate for index.html** | <https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/> |
 | 27-03-2022    | **Architecture Patterns: Caching (Part-1)** | <https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/> |
-| 28-03-2022    |
+| 28-03-2022    | **Using Notion to organise programming topics** | <https://devdojo.com/colocodes/using-notion-to-organise-programming-topics> |
 | 29-03-2022    |
 | 30-03-2022    |
 | 31-03-2022    |
