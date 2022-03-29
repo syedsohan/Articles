@@ -95,7 +95,7 @@
 | 26-03-2022    | **HTML Starter Template – A Basic HTML5 Boilerplate for index.html** | <https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/> |
 | 27-03-2022    | **Architecture Patterns: Caching (Part-1)** | <https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/> |
 | 28-03-2022    | **Using Notion to organise programming topics** | <https://devdojo.com/colocodes/using-notion-to-organise-programming-topics> |
-| 29-03-2022    |
+| 29-03-2022    | **Understanding Layout Algorithms** | <https://www.joshwcomeau.com/css/understanding-layout-algorithms/> |
 | 30-03-2022    |
 | 31-03-2022    |
 | 01-04-2022    |
