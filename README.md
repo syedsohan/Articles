@@ -98,4 +98,4 @@
 | 29-03-2022    | **Understanding Layout Algorithms** | <https://www.joshwcomeau.com/css/understanding-layout-algorithms/> |
 | 30-03-2022    | **N/A** | **N/A** |
 | 31-03-2022    | **N/A** | **N/A** |
-| 01-04-2022    |
+| 01-04-2022    | **GitDown Parsing Markdown in PHP** | <https://laravel-news.com/gitdown-parsing-markdown-in-php> |
