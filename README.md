@@ -99,3 +99,4 @@
 | 30-03-2022    | **N/A** | **N/A** |
 | 31-03-2022    | **N/A** | **N/A** |
 | 01-04-2022    | **GitDown Parsing Markdown in PHP** | <https://laravel-news.com/gitdown-parsing-markdown-in-php> |
+| 02-04-2022    | **What is a Full Stack Developer? 2022 Full Stack Engineer Guide** | <https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/> |
