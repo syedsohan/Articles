@@ -101,3 +101,4 @@
 | 01-04-2022    | **GitDown Parsing Markdown in PHP** | <https://laravel-news.com/gitdown-parsing-markdown-in-php> |
 | 02-04-2022    | **What is a Full Stack Developer? 2022 Full Stack Engineer Guide** | <https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/> |
 | 03-04-2022    | **Create a responsive navbar with React and CSS** | <https://blog.logrocket.com/create-responsive-navbar-react-css/> |
+| 04-04-2022    | **Using Design Patterns in JavaScript —The Ultimate Guide** | <https://www.syncfusion.com/blogs/post/using-design-patterns-in-javascript-the-ultimate-guide.aspx/amp> |
