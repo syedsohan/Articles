@@ -103,7 +103,7 @@
 | 03-04-2022    | **Create a responsive navbar with React and CSS** | <https://blog.logrocket.com/create-responsive-navbar-react-css/> |
 | 04-04-2022    | **Using Design Patterns in JavaScript —The Ultimate Guide** | <https://www.syncfusion.com/blogs/post/using-design-patterns-in-javascript-the-ultimate-guide.aspx/amp> |
 | 05-04-2022    | **Emerging Architectures for Modern Data Infrastructure** | <https://future.a16z.com/emerging-architectures-modern-data-infrastructure/> |
-| 06-04-2022    |
+| 06-04-2022    | **The Beginner's Guide to Sass** | <https://www.freecodecamp.org/news/the-beginners-guide-to-sass/> |
 | 07-04-2022    |
 | 08-04-2022    |
 | 09-04-2022    |
