@@ -105,7 +105,7 @@
 | 05-04-2022    | **Emerging Architectures for Modern Data Infrastructure** | <https://future.a16z.com/emerging-architectures-modern-data-infrastructure/> |
 | 06-04-2022    | **The Beginner's Guide to Sass** | <https://www.freecodecamp.org/news/the-beginners-guide-to-sass/> |
 | 07-04-2022    | **Command Line for Beginners – How to Use the Terminal Like a Pro** | <https://www.freecodecamp.org/news/command-line-for-beginners/> |
-| 19-05-2022    | **From 08-04-2022 to 19-05-2022 missing** |
+| 19-05-2022    | **From 08-04-2022 to 19-05-2022 missing** | **N/A** |
 | 20-05-2022    |
 | 21-05-2022    |
 | 22-05-2022    |
