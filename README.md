@@ -107,7 +107,7 @@
 | 07-04-2022    | **Command Line for Beginners – How to Use the Terminal Like a Pro** | <https://www.freecodecamp.org/news/command-line-for-beginners/> |
 | 19-05-2022    | **From 08-04-2022 to 19-05-2022 missing** | **N/A** |
 | 20-05-2022    | **How to Design Better APIs** | <https://quastor.substack.com/p/how-to-design-better-apis?s=r> |
-| 21-05-2022    |
+| 21-05-2022    | **The Modern JavaScript Tutorial** | <https://javascript.info/> |
 | 22-05-2022    |
 | 23-05-2022    |
 | 24-05-2022    |
