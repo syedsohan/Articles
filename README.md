@@ -110,7 +110,7 @@
 | 21-05-2022    | **The Modern JavaScript Tutorial** | <https://javascript.info/> |
 | 27-06-2022    | **From 22-05-2022 to 27-06-2022 missing** | **N/A** |
 | 28-06-2022    | **My Wonderful HTML Email Workflow** | <https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/> |
-| 29-06-2022    |
+| 29-06-2022    | **The End of Localhost** | <https://www.swyx.io/the-end-of-localhost/> |
 | 30-06-2022    |
 | 01-07-2022    |
 | 02-07-2022    |
