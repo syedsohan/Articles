@@ -111,7 +111,7 @@
 | 27-06-2022    | **From 22-05-2022 to 27-06-2022 missing** | **N/A** |
 | 28-06-2022    | **My Wonderful HTML Email Workflow** | <https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/> |
 | 29-06-2022    | **The End of Localhost** | <https://www.swyx.io/the-end-of-localhost/> |
-| 30-06-2022    |
+| 30-06-2022    | **Portfolio Ideas - An open-source repository for inspiration** | <https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration> |
 | 01-07-2022    |
 | 02-07-2022    |
 | 03-07-2022    |
