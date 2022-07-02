@@ -113,7 +113,7 @@
 | 29-06-2022    | **The End of Localhost** | <https://www.swyx.io/the-end-of-localhost/> |
 | 30-06-2022    | **Portfolio Ideas - An open-source repository for inspiration** | <https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration> |
 | 01-07-2022    | **How browsers work** | <https://web.dev/howbrowserswork/> |
-| 02-07-2022    |
+| 02-07-2022    | **How to Design an API – Application Programming Interface Best Practices** | <https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/design-an-api-application-program-interface/amp/> |
 | 03-07-2022    |
 | 04-07-2022    |
 | 05-07-2022    |
