@@ -116,7 +116,7 @@
 | 02-07-2022    | **How to Design an API – Application Programming Interface Best Practices** | <https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/design-an-api-application-program-interface/amp/> |
 | 03-07-2022    | **GitHub Repository Naming Suggestions** | <https://www.producthunt.com/posts/github-repository-naming-suggestions> |
 | 04-07-2022    | **Write Better Commits, Build Better Projects** | <https://github.blog/2022-06-30-write-better-commits-build-better-projects/> |
-| 05-07-2022    |
+| 05-07-2022    | **How to Understand Complex Coding Concepts Using the Feynman Technique** | <https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/> |
 | 06-07-2022    |
 | 07-07-2022    |
 | 08-07-2022    |
