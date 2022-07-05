@@ -117,7 +117,7 @@
 | 03-07-2022    | **GitHub Repository Naming Suggestions** | <https://www.producthunt.com/posts/github-repository-naming-suggestions> |
 | 04-07-2022    | **Write Better Commits, Build Better Projects** | <https://github.blog/2022-06-30-write-better-commits-build-better-projects/> |
 | 05-07-2022    | **How to Understand Complex Coding Concepts Using the Feynman Technique** | <https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/> |
-| 06-07-2022    |
+| 06-07-2022    | **4 Best New JavaScript ES2022 Features** | <https://javascript.plainenglish.io/4-best-new-es2022-features-6e73db339b21> |
 | 07-07-2022    |
 | 08-07-2022    |
 | 09-07-2022    |
