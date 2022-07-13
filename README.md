@@ -119,12 +119,7 @@
 | 05-07-2022    | **How to Understand Complex Coding Concepts Using the Feynman Technique** | <https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/> |
 | 06-07-2022    | **4 Best New JavaScript ES2022 Features** | <https://javascript.plainenglish.io/4-best-new-es2022-features-6e73db339b21> |
 | 07-07-2022    | **Algorithms you should know before you take system design interviews** | <https://blog.bytebytego.com/p/algorithms-you-should-know-before> |
-| 08-07-2022    |
-| 09-07-2022    |
-| 10-07-2022    |
-| 11-07-2022    |
-| 12-07-2022    |
-| 13-07-2022    |
+| 13-07-2022    | **Eid Vacation** | **N/A** |
 | 14-07-2022    |
 | 15-07-2022    |
 | 16-07-2022    |
