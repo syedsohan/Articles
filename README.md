@@ -121,8 +121,8 @@
 | 07-07-2022    | **Algorithms you should know before you take system design interviews** | <https://blog.bytebytego.com/p/algorithms-you-should-know-before> |
 | 13-07-2022    | **Eid Vacation** | **N/A** |
 | 14-07-2022    | **Improve how you architect webapps** | <https://www.patterns.dev/> |
-| 15-07-2022    |
-| 16-07-2022    |
+| 15-07-2022    | **N/A** | **N/A** |
+| 16-07-2022    | **Better scrolling through modern CSS** | <https://blog.mayank.co/better-scrolling-through-modern-css> |
 | 17-07-2022    |
 | 18-07-2022    |
 | 19-07-2022    |
