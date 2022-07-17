@@ -123,7 +123,7 @@
 | 14-07-2022    | **Improve how you architect webapps** | <https://www.patterns.dev/> |
 | 15-07-2022    | **N/A** | **N/A** |
 | 16-07-2022    | **Better scrolling through modern CSS** | <https://blog.mayank.co/better-scrolling-through-modern-css> |
-| 17-07-2022    |
+| 17-07-2022    | **Create a 3D city from your GitHub contributions!** | <https://www.producthunt.com/posts/github-city> |
 | 18-07-2022    |
 | 19-07-2022    |
 | 20-07-2022    |
