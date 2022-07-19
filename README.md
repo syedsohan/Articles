@@ -124,8 +124,8 @@
 | 15-07-2022    | **N/A** | **N/A** |
 | 16-07-2022    | **Better scrolling through modern CSS** | <https://blog.mayank.co/better-scrolling-through-modern-css> |
 | 17-07-2022    | **Create a 3D city from your GitHub contributions!** | <https://www.producthunt.com/posts/github-city> |
-| 18-07-2022    |
-| 19-07-2022    |
+| 18-07-2022    | **N/A** | **N/A** |
+| 19-07-2022    | **11 Best GitHub Repositories That Help You Become A Better Software Developer** | <https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer> |
 | 20-07-2022    |
 | 21-07-2022    |
 | 22-07-2022    |
