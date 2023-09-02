@@ -126,46 +126,4 @@
 | 17-07-2022    | **Create a 3D city from your GitHub contributions!** | <https://www.producthunt.com/posts/github-city> |
 | 18-07-2022    | **N/A** | **N/A** |
 | 19-07-2022    | **11 Best GitHub Repositories That Help You Become A Better Software Developer** | <https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer> |
-| 20-07-2022    |
-| 21-07-2022    |
-| 22-07-2022    |
-| 23-07-2022    |
-| 24-07-2022    |
-| 25-07-2022    |
-| 26-07-2022    |
-| 27-07-2022    |
-| 28-07-2022    |
-| 29-07-2022    |
-| 30-07-2022    |
-| 31-07-2022    |
-| 01-08-2022    |
-| 02-08-2022    |
-| 03-08-2022    |
-| 04-08-2022    |
-| 05-08-2022    |
-| 06-08-2022    |
-| 07-08-2022    |
-| 08-08-2022    |
-| 09-08-2022    |
-| 10-08-2022    |
-| 11-08-2022    |
-| 12-08-2022    |
-| 13-08-2022    |
-| 14-08-2022    |
-| 15-08-2022    |
-| 16-08-2022    |
-| 17-08-2022    |
-| 18-08-2022    |
-| 19-08-2022    |
-| 20-08-2022    |
-| 21-08-2022    |
-| 22-08-2022    |
-| 23-08-2022    |
-| 24-08-2022    |
-| 25-08-2022    |
-| 26-08-2022    |
-| 27-08-2022    |
-| 28-08-2022    |
-| 29-08-2022    |
-| 30-08-2022    |
-| 31-08-2022    |
+| 02-09-2023    | **10 things you didn’t know you could do with GitHub Projects** | <https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/> |
