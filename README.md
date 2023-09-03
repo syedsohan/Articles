@@ -126,4 +126,35 @@
 | 17-07-2022    | **Create a 3D city from your GitHub contributions!** | <https://www.producthunt.com/posts/github-city> |
 | 18-07-2022    | **N/A** | **N/A** |
 | 19-07-2022    | **11 Best GitHub Repositories That Help You Become A Better Software Developer** | <https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer> |
+
+## 2023
+
 | 02-09-2023    | **10 things you didn’t know you could do with GitHub Projects** | <https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/> |
+| 03-09-2023    | **N/A** | **N/A** |
+| 04-09-2023    | **N/A** | **N/A** |
+| 05-09-2023    | **N/A** | **N/A** |
+| 06-09-2023    | **N/A** | **N/A** |
+| 07-09-2023    | **N/A** | **N/A** |
+| 08-09-2023    | **N/A** | **N/A** |
+| 09-09-2023    | **N/A** | **N/A** |
+| 10-09-2023    | **N/A** | **N/A** |
+| 11-09-2023    | **N/A** | **N/A** |
+| 12-09-2023    | **N/A** | **N/A** |
+| 13-09-2023    | **N/A** | **N/A** |
+| 14-09-2023    | **N/A** | **N/A** |
+| 15-09-2023    | **N/A** | **N/A** |
+| 16-09-2023    | **N/A** | **N/A** |
+| 17-09-2023    | **N/A** | **N/A** |
+| 18-09-2023    | **N/A** | **N/A** |
+| 19-09-2023    | **N/A** | **N/A** |
+| 20-09-2023    | **N/A** | **N/A** |
+| 21-09-2023    | **N/A** | **N/A** |
+| 22-09-2023    | **N/A** | **N/A** |
+| 23-09-2023    | **N/A** | **N/A** |
+| 24-09-2023    | **N/A** | **N/A** |
+| 25-09-2023    | **N/A** | **N/A** |
+| 26-09-2023    | **N/A** | **N/A** |
+| 27-09-2023    | **N/A** | **N/A** |
+| 28-09-2023    | **N/A** | **N/A** |
+| 29-09-2023    | **N/A** | **N/A** |
+| 30-09-2023    | **N/A** | **N/A** |
