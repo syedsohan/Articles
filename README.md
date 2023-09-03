@@ -6,6 +6,10 @@
 
 ------------------------------------------------------------------------
 
+## 🚀 2022
+
+------------------------------------------------------------------------
+
 | Day           | Topic         | Link          |
 | ------------- | ------------- | ------------- |
 | 03-01-2022    | **State of CSS 2021** | <https://web.dev/state-of-css-2021/> |
@@ -127,8 +131,14 @@
 | 18-07-2022    | **N/A** | **N/A** |
 | 19-07-2022    | **11 Best GitHub Repositories That Help You Become A Better Software Developer** | <https://blog.oliverjumpertz.dev/11-best-github-repositories-that-help-you-become-a-better-software-developer> |
 
-## 2023
+------------------------------------------------------------------------
 
+## 🚀 2023
+
+------------------------------------------------------------------------
+
+| Day           | Topic         | Link          |
+| ------------- | ------------- | ------------- |
 | 02-09-2023    | **10 things you didn’t know you could do with GitHub Projects** | <https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/> |
 | 03-09-2023    | **N/A** | **N/A** |
 | 04-09-2023    | **N/A** | **N/A** |
