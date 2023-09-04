@@ -141,7 +141,7 @@
 | ------------- | ------------- | ------------- |
 | 02-09-2023    | **10 things you didn’t know you could do with GitHub Projects** | <https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/> |
 | 03-09-2023    | **How To Write Test Cases For Ecommerce Website In A Best Way?** | <https://www.qatouch.com/blog/how-to-write-test-cases-for-ecommerce-website-in-a-best-way> |
-| 04-09-2023    | **N/A** | **N/A** |
+| 04-09-2023    | **How To Write QA Test Summary Report Sample? [13 Easy Steps]** | <https://www.qatouch.com/blog/how-to-write-qa-test-summary-report/> |
 | 05-09-2023    | **N/A** | **N/A** |
 | 06-09-2023    | **N/A** | **N/A** |
 | 07-09-2023    | **N/A** | **N/A** |
